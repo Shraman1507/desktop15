@@ -1,0 +1,119 @@
+.header{
+    display: flex;
+    background-color: #141414;
+    ;
+    color: #CFFF69;
+    ;
+    height: 7.5vh;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+
+    
+}
+body{
+      font-family: Georgia, 'Times New Roman', Times, serif;  
+      margin-top: 0%;
+      margin-right: 0%;
+      margin-left: 0%;
+}
+
+
+.pages{
+    position: relative;
+    left: 41vw;
+    font-size: 3vh;
+    margin:1vw;
+    padding: 1vw;
+    padding-top: 0.4vh;
+}
+
+#register{
+    color: rgb(17, 18, 16);
+    background-color: #CFFF69;
+    margin-bottom: 0.5vw;
+    border-radius: 1vw;
+}
+
+.game_details{
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      left: 5vw;
+      top: 5vw;
+      width: 45vw;
+}
+
+.game_name{
+     font-size: 5vw;
+     font-style: italic;
+    }
+.date{
+    font-size: 2.75vw;
+    margin-bottom: 2vw;
+    position: relative;
+    left: 1vw;
+}
+
+.team_size{
+    font-size: 1.5vw;
+}
+.bold{
+    font-size: 2.5vw;
+}
+
+.rulebook_link{
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5vw;
+   
+}
+
+.register_button{
+    font-size: 2.65vw;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.event_body{
+    display: flex;
+    height: 32.5vw;
+}
+
+.pics_huge{
+    height: 25vw;
+    width: 25vw;
+}
+
+.game_pics_small{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.game_pics_huge{
+    margin: 5px;
+}
+
+.pics_small{
+    height: 12.5vw;
+    width: 12.5vw;
+}
+
+.pics{
+    position: relative;
+    top: 5vh;
+    display: flex;
+}
+
+.nav{
+    display: flex;
+      
+      position: relative;
+      left: 5vw;
+      top: 0.5vw;
+      width: 45vw;
+      font-size: 1.5vw;
+}
